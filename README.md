@@ -28,9 +28,9 @@ Run npm i then node serer.js to start application
 ---
 
 ## Contributing:
--Stack Overflow
--TA and Instructor assistance
--Video Demo: https://drive.google.com/file/d/1zHQdzQM7eh3YyEiI5LWEuDHF82QbLmVq/view
+- Stack Overflow
+- TA and Instructor assistance
+- Video Demo: https://drive.google.com/file/d/1zHQdzQM7eh3YyEiI5LWEuDHF82QbLmVq/view
 
 
 ---
